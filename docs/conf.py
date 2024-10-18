@@ -1,3 +1,4 @@
+# 너무 멋져!!
 # Django documentation build configuration file, created by
 # sphinx-quickstart on Thu Mar 27 09:06:53 2008.
 #
